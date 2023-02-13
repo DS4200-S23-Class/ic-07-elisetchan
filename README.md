@@ -1,7 +1,7 @@
 # ic-07
 ic-07 - Intro to D3 Part 1
 
-Link to GitHub Pages: `[insert your clickable hyperlink here]`
+Link to GitHub Pages: [insert your clickable hyperlink here]
 
 ## Purpose
 
